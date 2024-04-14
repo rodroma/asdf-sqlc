@@ -12,5 +12,5 @@ asdf plugin-add sqlc https://github.com/thokra/asdf-sqlc.git
 
 ```
 % asdf install sqlc
-Downloading sqlc from https://github.com/kyleconroy/sqlc/releases/download/v1.14.0/sqlc_1.14.0_linux_amd64.tar.gz
+Downloading sqlc from https://github.com/sqlc-dev/sqlc/releases/download/v1.14.0/sqlc_1.14.0_linux_amd64.tar.gz
 ```

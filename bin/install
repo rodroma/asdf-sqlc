@@ -38,7 +38,7 @@ get_download_url() {
   platform="$(get_arch)"
   cpu="amd64"
 
-  echo "https://github.com/kyleconroy/sqlc/releases/download/v${version}/sqlc_${version}_${platform}_${cpu}.tar.gz"
+  echo "https://github.com/sqlc-dev/sqlc/releases/download/v${version}/sqlc_${version}_${platform}_${cpu}.tar.gz"
 }
 
 install_sqlc "$ASDF_INSTALL_TYPE" "$ASDF_INSTALL_VERSION" "$ASDF_INSTALL_PATH"
